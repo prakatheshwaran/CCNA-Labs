@@ -71,3 +71,32 @@ subinterfaces to provide gateways for multiple VLANs.
 ## Tool
 
 Cisco Packet Tracer
+
+## Screenshots
+
+### Networking Topology
+
+![Inter-VLAN Routing Topology](Screenshots/01-topology.png)
+
+### Inter-VLAN Communication Verification
+
+![Successful Ping](Screenshots/02-inter-vlan-ping.png)
+
+## Verification
+
+Inter-VLAN communication was verified using ICMP ping.
+
+PC0 (`192.168.10.10`) successfully pinged PC1 (`192.168.20.10`)
+with 0% packet loss.
+
+This confirms that traffic was successfully routed between VLAN 10
+and VLAN 20 through the Router-on-a-Stick configuration.
+
+## Simulation
+
+The network was analyzed using Cisco Packet Tracer Simulation Mode
+to observe the flow of traffic between VLAN 10 and VLAN 20.
+
+### Simulation Video
+
+[▶️ Watch the Inter-VLAN Routing Simulation](https://www.linkedin.com/posts/prakatheshwaran-arumugam-087946257_ccna-cisco-networking-activity-7507303507469750273-onXQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9SSOcBkPWZR0v80Cmqj_SbRRHKo4P_IbE)
