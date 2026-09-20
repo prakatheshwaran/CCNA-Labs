@@ -1,5 +1,3 @@
-# CCNA-Labs
-
 # CCNA Networking Labs
 My hands-on CCNA 200-301 networking laboratory using Cisco Packet Tracer.
 
