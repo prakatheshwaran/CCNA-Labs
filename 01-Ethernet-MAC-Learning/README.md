@@ -78,3 +78,7 @@ Cisco Packet Tracer
 
 ![MAC Simulation](Screenshots/07-mac-simulation.png)
 
+
+### Simulation Recording
+
+[▶️ View Simulation Recording](./Lab-Simulation/mac-simulation.mp4)
