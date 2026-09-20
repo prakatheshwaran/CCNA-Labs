@@ -52,28 +52,29 @@ Cisco Packet Tracer
 
 ### 1. Network Topology
 
-![Network Topology](screenshots/01-topology.png)
+![Network Topology](Screenshots/01-topology.png)
 
 ### 2. MAC Address Table
 
-![MAC Address Table](screenshots/02-mac-address-table.png)
+![MAC Address Table](Screenshots/02-mac-address-table.png)
 
 ### 3. PDU Analysis
 
-![PDU Analysis](screenshots/03-pdu-analysis.png)
+![PDU Analysis](Screenshots/03-pdu-analysis.png)
 
 ### 4. Ping Verification
 
-![Ping Verification](screenshots/04-ping-verification.png)
+![Ping Verification](Screenshots/04-ping-verification.png)
 
 ### 5. Inbound PDU
 
-![Inbound PDU](screenshots/05-inbound-pdu.png)
+![Inbound PDU](Screenshots/05-inbound-pdu.png)
 
 ### 6. Outbound PDU
 
-![Outbound PDU](screenshots/06-outbound-pdu.png)
+![Outbound PDU](Screenshots/06-outbound-pdu.png)
 
 ### 7. MAC Simulation
 
-![MAC Simulation](screenshots/07-mac-simulation.png)
+![MAC Simulation](Screenshots/07-mac-simulation.png)
+
