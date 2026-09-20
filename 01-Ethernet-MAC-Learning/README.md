@@ -82,3 +82,14 @@ Cisco Packet Tracer
 ### Simulation Recording
 
 [▶️ View Simulation Recording](./Lab-Simulation/mac-simulation.mp4)
+
+## Simulation Observations
+
+| Step | Observation |
+|---|---|
+| 1 | PC generates an ICMP Echo Request |
+| 2 | Ethernet frame is created with source and destination MAC addresses |
+| 3 | Switch learns the source MAC address |
+| 4 | Unknown destination MAC causes flooding |
+| 5 | Destination device receives the frame |
+| 6 | Reply frame is forwarded using the learned MAC address |
